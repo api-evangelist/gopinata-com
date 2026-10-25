@@ -1,0 +1,117 @@
+# PINATA Help Center
+
+> Help center for PINATA
+
+## Getting Started with PINATA
+
+- [I want to use PINATA](https://help.gopinata.com/en/articles/1270400-i-want-to-use-pinata.md): This article will help you get in touch with the PINATA sales team.
+- [PINATA Dictionary](https://help.gopinata.com/en/articles/3881974-pinata-dictionary.md): Unsure what we mean by certain words? Learn more about tasks, programs, users, products, and more.
+- [What is PINATA?](https://help.gopinata.com/en/articles/3921180-what-is-pinata.md): Let's discuss PINATA & what we do!
+- [A Beginner's Guide to PINATA](https://help.gopinata.com/en/articles/4343186-a-beginner-s-guide-to-pinata.md): Let's discuss what to do once you are live on PINATA
+- [How to Sign-up on PINATA](https://help.gopinata.com/en/articles/1554438-how-to-sign-up-on-pinata.md): Let's discuss signing up & joining organizations on PINATA!
+- [How to Login to PINATA](https://help.gopinata.com/en/articles/1554448-how-to-login-to-pinata.md): Let's discuss how login to PINATA!
+- [How to Save PINATA on your Computer or Phone](https://help.gopinata.com/en/articles/4232086-how-to-save-pinata-on-your-computer-or-phone.md): Let's discuss how to bookmark PINATA & save it to your home screen on your mobile device!
+- [How to Reset your Password](https://help.gopinata.com/en/articles/1235182-how-to-reset-your-password.md): Let's discuss what to do if you need to recover your password or if you forgot it
+- [How to Edit your Account Details](https://help.gopinata.com/en/articles/3896300-how-to-edit-your-account-details.md): Let's discuss how to update your contact information!
+- [How to Add Your Branding to PINATA](https://help.gopinata.com/en/articles/5111495-how-to-add-your-branding-to-pinata.md): In this article we will discuss how to brand PINATA to look and feel more like your company!
+- [How to Navigate Between the Dashboard and GoPortal](https://help.gopinata.com/en/articles/8653709-how-to-navigate-between-the-dashboard-and-goportal.md): Do you have access to the Dashboard and GoPortal? Learn how to go between them!
+
+## Notifications and Account Control
+
+- [What Notifications are Sent?](https://help.gopinata.com/en/articles/7016764-what-notifications-are-sent.md): Let's discuss what notifications will be sent based on your PINATA access!
+- [New Task Notifications](https://help.gopinata.com/en/articles/1707664-new-task-notifications.md): Let's discuss how you will be notified when a client requests a new task!
+- [How to Unsubscribe from Notifications or Close your Account](https://help.gopinata.com/en/articles/2946984-how-to-unsubscribe-from-notifications-or-close-your-account.md): Let's discuss how to unsubscribe from texts, emails, or cancel your account.
+- [IT: How to Whitelist PINATA](https://help.gopinata.com/en/articles/4356427-it-how-to-whitelist-pinata.md): Ensure PINATA emails make it to your inbox instead of your Spam folder. We'll also detail how to login and access PINATA.
+- [Resubscribe to Email Notifications](https://help.gopinata.com/en/articles/9592279-resubscribe-to-email-notifications.md): Accidentally unsubscribed from notifications? Opt back in yourself with one click!
+
+## GoGetter | GoPortal
+
+- [GoGetter: What kind of help do you need?](https://help.gopinata.com/en/articles/8736509-gogetter-what-kind-of-help-do-you-need.md): If you are a Gogetter assigned on a task \(such as a brand ambassador\), learn who to contact to get you the right kind of help.
+- [GoGetter: How to switch between your companies](https://help.gopinata.com/en/articles/9106333-gogetter-how-to-switch-between-your-companies.md): Switching between organizations, agencies, or companies in your PINATA portal
+- [GoGetter: PINATA Beginner's Guide](https://help.gopinata.com/en/articles/4352007-gogetter-pinata-beginner-s-guide.md): Let's discuss how to get started on PINATA's GoPortal!
+- [GoGetter | How to Login](https://help.gopinata.com/en/articles/5899531-gogetter-how-to-login.md): Let's discuss how to login using a magic email link on PINATA as well as login with a password if you have one
+- [GoGetter: How to set up a PINATA User Profile](https://help.gopinata.com/en/articles/3904294-gogetter-how-to-set-up-a-pinata-user-profile.md): Entering profile information, uploading profile photos, or making changes to your location or availability are all managed in your Profile
+- [GoGetter: How to View Tasks](https://help.gopinata.com/en/articles/1270485-gogetter-how-to-view-tasks.md): Viewing past, present, and future tasks + all training details
+- [GoGetter: How to Find and Apply to Tasks](https://help.gopinata.com/en/articles/3924785-gogetter-how-to-find-and-apply-to-tasks.md): Let's discuss how to find and apply for tasks on PINATA!
+- [GoGetter: Application Statuses](https://help.gopinata.com/en/articles/5881257-gogetter-application-statuses.md): Let's discuss application statuses after you have applied to a task on PINATA.
+- [GoGetter: Need to Withdraw an Application?](https://help.gopinata.com/en/articles/2950580-gogetter-need-to-withdraw-an-application.md): This article will help you learn how to withdraw your application from a task if you are not assigned yet.
+- [GoGetter: How to Confirm/Reject Your Assigned Tasks](https://help.gopinata.com/en/articles/7966582-gogetter-how-to-confirm-reject-your-assigned-tasks.md): Let's discuss how to confirm you can work a task assigned to you by your employer!
+- [GoGetter: How to add a Task to your own Calendar](https://help.gopinata.com/en/articles/5236308-gogetter-how-to-add-a-task-to-your-own-calendar.md): Let's discuss how to add PINATA tasks to your calendar
+- [GoGetter: How to Complete a Report](https://help.gopinata.com/en/articles/3926022-gogetter-how-to-complete-a-report.md): Let's discuss how to complete a task on PINATA.
+- [GoGetter: How to Declare Expenses on PINATA](https://help.gopinata.com/en/articles/1307523-gogetter-how-to-declare-expenses-on-pinata.md): Let's discuss how to properly declare any expenses you may incur during your task.
+- [GoGetter: Running Late](https://help.gopinata.com/en/articles/1270511-gogetter-running-late.md): Train delayed, Car broke down... what do I do if I’m running late to a task?
+- [GoGetter: How to Resolve Issues at your Task](https://help.gopinata.com/en/articles/3929978-gogetter-how-to-resolve-issues-at-your-task.md): Let's discuss what to do if you are running into issues during your task.
+- [GoGetter: How do I get Paid?](https://help.gopinata.com/en/articles/1270432-gogetter-how-do-i-get-paid.md): Let's discuss how you'll be paid for your work
+- [GoGetter: How do I Edit a Field Report?](https://help.gopinata.com/en/articles/1959502-gogetter-how-do-i-edit-a-field-report.md): Let's discuss how you can make changes to your report!
+- [How to Schedule an Autonomous Task in the GoPortal](https://help.gopinata.com/en/articles/5687502-how-to-schedule-an-autonomous-task-in-the-goportal.md): Learn how autonomous users can create their own tasks!
+- [How to Edit a Task in the GoPortal](https://help.gopinata.com/en/articles/6516343-how-to-edit-a-task-in-the-goportal.md): Let's discuss how to edit an autonomous task within the GoPortal!
+- [How to Cancel a Task in the Go Portal](https://help.gopinata.com/en/articles/6516355-how-to-cancel-a-task-in-the-go-portal.md): Let's discuss how to cancel an autonomous task within the Go Portal!
+- [How to Request a Task on the Go Portal](https://help.gopinata.com/en/articles/5681042-how-to-request-a-task-on-the-go-portal.md): Let's discuss how to make new requests using the Go Portal on PINATA
+- [How to View a Finished Task](https://help.gopinata.com/en/articles/5881463-how-to-view-a-finished-task.md): Let's discuss how to view a task and its report
+- [Requested Task Statuses](https://help.gopinata.com/en/articles/5881360-requested-task-statuses.md): Let's discuss request statuses after you have requested a task on PINATA.
+
+## Dashboard | Organization Management
+
+- [How to Manage your Products](https://help.gopinata.com/en/articles/3897578-how-to-manage-your-products.md): Let's discuss about how to add products, tag them & more.
+- [How to Manage Training Documents](https://help.gopinata.com/en/articles/4173727-how-to-manage-training-documents.md): Let's discuss how to manage your team's training materials on PINATA
+- [How to Manage your Locations](https://help.gopinata.com/en/articles/3898050-how-to-manage-your-locations.md): Let's discuss how you can save locations on PINATA.
+- [How to Invite or Remove Team Members](https://help.gopinata.com/en/articles/3898305-how-to-invite-or-remove-team-members.md): Let's discuss how you can add or remove your team members, as well as resend invite links
+- [How to Manage User Permissions](https://help.gopinata.com/en/articles/3896862-how-to-manage-user-permissions.md): Let's discuss what user permissions are & how to update them!
+- [How User Permissions are Defined](https://help.gopinata.com/en/articles/3995591-how-user-permissions-are-defined.md): Let's discuss different permission levels on PINATA.
+- [Is it possible to have a roster of our active users?](https://help.gopinata.com/en/articles/1270329-is-it-possible-to-have-a-roster-of-our-active-users.md): Let's discuss where to locate a download of your active users!
+- [How to Manage your Team's Profiles](https://help.gopinata.com/en/articles/3896572-how-to-manage-your-team-s-profiles.md): Let's discuss how to edit and manage your team's profiles.
+- [How to use the Team Availability Calendar](https://help.gopinata.com/en/articles/3639670-how-to-use-the-team-availability-calendar.md): Let's discuss how to use the team availability calendar.
+- [Adding Activities to the Go Portal](https://help.gopinata.com/en/articles/5686559-adding-activities-to-the-go-portal.md): Let's discuss how to make certain activities available on the Go Portal.
+- [Inviting & updating user permissions on the GoPortal](https://help.gopinata.com/en/articles/5681093-inviting-updating-user-permissions-on-the-goportal.md): Let's discuss how to allow users to be autonomous / self-schedule or request their own tasks via the GoPortal
+- [How to Create/Edit a Workspace Partner](https://help.gopinata.com/en/articles/5523830-how-to-create-edit-a-workspace-partner.md): Let's discuss how to create a Workspace Partner
+
+## Dashboard | Program Creation and Editing
+
+- [How to Create a New Program](https://help.gopinata.com/en/articles/3855344-how-to-create-a-new-program.md): Let's discuss creating a new program!
+- [How to Edit an Existing Program](https://help.gopinata.com/en/articles/3903903-how-to-edit-an-existing-program.md): Let's discuss how to make changes to your existing programs.
+- [How to use Program Groups](https://help.gopinata.com/en/articles/4935741-how-to-use-program-groups.md): Let's discuss how to organize programs into groups on your dashboard
+- [How to Manage Partners on PINATA](https://help.gopinata.com/en/articles/6010240-how-to-manage-partners-on-pinata.md): Let's discuss all of the partners within a task on PINATA!
+- [How to Manage Program Notifications](https://help.gopinata.com/en/articles/3896337-how-to-manage-program-notifications.md): Let's discuss how to setup your team to receive notifications.
+
+## Dashboard | Task Creation, Editing & Filtering
+
+- [What is a Deadline Task?](https://help.gopinata.com/en/articles/5091149-what-is-a-deadline-task.md): Let's discuss what a Deadline Task is.
+- [How to Batch Upload Tasks!](https://help.gopinata.com/en/articles/6641588-how-to-batch-upload-tasks.md): Let's discuss how to use PINATA's Batch Uploader to upload tasks in bulk
+- [How to use Open To & First-Come-First-Serve](https://help.gopinata.com/en/articles/5268541-how-to-use-open-to-first-come-first-serve.md): Let's discuss how to share Tasks for application based on criteria such as distance or tag
+- [How to Create a New Task](https://help.gopinata.com/en/articles/3859794-how-to-create-a-new-task.md): Let's discuss how to create a new task!
+- [How to Assign a User to a Task](https://help.gopinata.com/en/articles/3860640-how-to-assign-a-user-to-a-task.md): Let's discuss how to assign a user to work your tasks!
+- [How to Uncancel a Task](https://help.gopinata.com/en/articles/5884364-how-to-uncancel-a-task.md): Let's discuss how to uncancel a task on the dashboard
+- [How to Mark a Task as Complete](https://help.gopinata.com/en/articles/6915756-how-to-mark-a-task-as-complete.md): Let's discuss how to close out a task after verifying it's report!
+- [How to Unverify a Task](https://help.gopinata.com/en/articles/5773508-how-to-unverify-a-task.md): Let's discuss how to unverify a task on the dashboard
+- [How to Edit an Existing Task](https://help.gopinata.com/en/articles/3860354-how-to-edit-an-existing-task.md): Let's discuss how you modify your tasks, events, gigs, demos, etc!
+- [How to Edit Multiple Tasks at Once](https://help.gopinata.com/en/articles/3879180-how-to-edit-multiple-tasks-at-once.md): Let's discuss how to use PINATA's batch editor!
+- [How to Verify or Edit a Task Report](https://help.gopinata.com/en/articles/3872633-how-to-verify-or-edit-a-task-report.md): Let's discuss how to verify & edit a task report!
+- [How to View Billing Information](https://help.gopinata.com/en/articles/4169416-how-to-view-billing-information.md): Let's discuss how to view the Billing information within an individual task!
+- [How to download Task receipts](https://help.gopinata.com/en/articles/5152346-how-to-download-task-receipts.md): Let's discuss how to download task receipts!
+- [How to Edit Tasks in the Dashboard](https://help.gopinata.com/en/articles/3412679-how-to-edit-tasks-in-the-dashboard.md): Let's discuss how to quickly edit tasks!
+- [How to use Filters on Tasks](https://help.gopinata.com/en/articles/3864578-how-to-use-filters-on-tasks.md): Let's discuss how to use filters to search for tasks.
+- [How to Download Tasks from your Dashboard](https://help.gopinata.com/en/articles/4169417-how-to-download-tasks-from-your-dashboard.md): Let's discuss how to download the tasks from your dashboard!
+- [How to Cancel a Task](https://help.gopinata.com/en/articles/3881852-how-to-cancel-a-task.md): Let's discuss cancelling a task!
+- [How to Submit Tasks For Approval](https://help.gopinata.com/en/articles/2999660-how-to-submit-tasks-for-approval.md): Let's discuss how to submit tasks for approval by a manager
+- [GoGetter Assignment Statuses](https://help.gopinata.com/en/articles/6152017-gogetter-assignment-statuses.md): Let's discuss GoGetter statuses when assigning a task!
+- [How to Request Staffing Confirmation](https://help.gopinata.com/en/articles/7942710-how-to-request-staffing-confirmation.md): Let's discuss how talent can confirm they can work an assigned task!
+
+## Dashboard | Aggregate Reporting
+
+- [How to use the Photo Slide Generator](https://help.gopinata.com/en/articles/8883824-how-to-use-the-photo-slide-generator.md): Check out this article, if you make presentations/decks that use your photos from PINATA
+- [How to interact with data on PINATA](https://help.gopinata.com/en/articles/4127452-how-to-interact-with-data-on-pinata.md): Let's discuss how to make the best use of PINATA reporting on the Reports and Financials tab!
+- [Reports Tab Explained](https://help.gopinata.com/en/articles/3996083-reports-tab-explained.md): Let's discuss what you'll see on the Reports tab and what each dashboard means!
+- [How to View an Individual Task Report](https://help.gopinata.com/en/articles/4231577-how-to-view-an-individual-task-report.md): Let's discuss how to view individual task reports!
+
+## Dashboard | Invoicing & Financials
+
+- [What is Invoicing?](https://help.gopinata.com/en/articles/4131651-what-is-invoicing.md): How to invoice gigs or tasks on PINATA
+- [Understanding Invoicing Statuses](https://help.gopinata.com/en/articles/4187929-understanding-invoicing-statuses.md): Let's discuss what each invoice status means!
+- [How to download an Invoice \(or other Financial Data\)](https://help.gopinata.com/en/articles/7333001-how-to-download-an-invoice-or-other-financial-data.md): Downloading invoices as PDF or Excel or downloading Financial info into CSV
+- [How to Create an Invoice](https://help.gopinata.com/en/articles/4177438-how-to-create-an-invoice.md): Let's discuss how to make an invoice on PINATA
+- [How to retract an Invoice](https://help.gopinata.com/en/articles/5898670-how-to-retract-an-invoice.md): Let's discuss how to retract an Invoice
+- [How to Edit an Existing Invoice](https://help.gopinata.com/en/articles/4188453-how-to-edit-an-existing-invoice.md): Let's discuss how you make changes to an invoice!
+- [How to Receive/Approve an Invoice on PINATA](https://help.gopinata.com/en/articles/4277542-how-to-receive-approve-an-invoice-on-pinata.md): Let's discuss how you'll receive invoices on PINATA
+- [How to Void/Reject an Invoice](https://help.gopinata.com/en/articles/6119325-how-to-void-reject-an-invoice.md): Let's discuss how to void/reject an invoice on PINATA
+- [How to use Filters on Invoices](https://help.gopinata.com/en/articles/5986538-how-to-use-filters-on-invoices.md): Let's discuss how to use filters on invoices!
+- [Financials Tab Explained](https://help.gopinata.com/en/articles/3886653-financials-tab-explained.md): Let's discuss what you'll see on the Financials tab and what each reporting dashboard means!

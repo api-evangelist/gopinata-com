@@ -1,25 +1,74 @@
 aid: gopinata-com
+
 name: Pinata
-description: 'Pinata is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by bullpen-capital) and added to the network as a stub for full-pipeline profiling.'
+
+description: Pinata provides a sales empowerment platform that connects brands, distributors, agencies, and field teams on a unified operating
+  system. It enables managing brand programs, tracking activations, and measuring ROI across thousands of organizations. The solution offers tools
+  for campaign execution, data analytics, and collaboration, helping companies streamline brand execution and drive measurable results.
+
 url: https://raw.githubusercontent.com/api-evangelist/gopinata-com/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-25 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-25'
+
 modified: '2026-10-25'
+
 tags:
 - Company
-apis: []
+- Sales
+- Marketing
+- Brand
+- Platform
+
+image: https://www.gopinata.com/assets/logo.png
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
+common:
+- type: LLMsTxt
+  url: llms/gopinata-com-llms.txt
+- type: SecurityTxt
+  url: well-known/gopinata-com-help-security.txt
+- type: WellKnown
+  url: well-known/gopinata-com-well-known.yml
+- type: Hosts
+  url: hosts/gopinata-com-hosts.yml
+- type: Vendors
+  url: vendors/gopinata-com-vendors.yml
+- type: Support
+  url: https://help.gopinata.com/en/
+- type: Blog
+  url: https://blog.gopinata.com/blog
+- type: Documentation
+  url: https://help.gopinata.com/
+- type: DomainSecurity
+  url: security/gopinata-com-domain-security.yml
+- type: Website
+  url: https://www.gopinata.com
+
+apis:
+- name: Pinata API
+  description: Pinata provides a sales empowerment platform API documented at the developers portal.
+  humanURL: https://www.gopinata.com/developers
+  aid: gopinata-com:pinata-api
+
 x-backed-by:
 - bullpen-capital
-common:
-- type: Website
-  url: https://gopinata.com
+x-enrichment:
+  date: '2026-10-25'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
